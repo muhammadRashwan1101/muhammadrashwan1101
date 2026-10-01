@@ -96,8 +96,7 @@ I enjoy understanding how systems work as a whole — from the user interface an
 It transforms relationships between software components into an interactive visual representation.
 
 ### 🏗️ Architecture
-
-```text
+text
                     ┌─────────────────┐
                     │   System Atlas  │
                     └────────┬────────┘
@@ -133,6 +132,8 @@ Neo4j Cytoscape.js
 🗺️ Interactive architecture visualization
 📚 Architecture knowledge mapping
 🛍️ VisioCreate
+
+
 
 A modern full-stack e-commerce platform built around a responsive user experience and structured backend architecture.
 
@@ -247,4 +248,4 @@ Iterate
 🤝 Let's Connect
 <div align="center"> <a href="https://www.linkedin.com/in/muhammad-rashwan/"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://github.com/muhammadRashwan1101"> <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> </div> <br> <div align="center">
 ⚡ Engineering mindset. Software execution. Intelligent systems.
-</div> ```
+</div>
