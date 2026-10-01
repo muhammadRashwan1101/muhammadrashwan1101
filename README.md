@@ -4,6 +4,8 @@
 
 ### Software Developer · Full-Stack Engineer · AI-Powered Development
 
+*Engineering mindset. Software execution. Intelligent systems.*
+
 <p>
   <a href="https://www.linkedin.com/in/muhammad-rashwan/">
     <img src="https://img.shields.io/badge/LinkedIn-Muhammad%20Rashwan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -19,233 +21,159 @@
 
 ## 🧠 About Me
 
-I'm a **Software Developer with an Electrical Engineering background**, interested in building software systems that go beyond simple applications.
+I'm a **Software Developer with an Electrical Engineering background**, interested in building software systems that go beyond simple applications. My work sits at the intersection of:
 
-My work sits at the intersection of:
+<div align="center">
 
 **Software Engineering × AI × Architecture × Automation**
 
-I enjoy understanding how systems work as a whole — from the user interface and APIs to databases, infrastructure, and the underlying architecture.
+</div>
 
-- 🎓 Electrical Power Engineering graduate — Class of 2024
-- 💻 Specialized in **AI-Powered Software Development**
-- 🚀 Full-Stack development with the **MERN ecosystem**
-- 🏗️ Interested in **Software Architecture & System Design**
-- 🤖 Exploring **AI-powered applications & intelligent systems**
-- ☁️ Building experience with **Cloud, DevOps & Infrastructure**
-- ⚡ Long-term interest in **Robotics, Automation & intelligent systems**
+I enjoy understanding how a system works as a whole, from the user interface and APIs down to databases, infrastructure, and the architecture underneath.
+
+| | |
+|---|---|
+| 🎓 **Education** | Electrical Power Engineering, Class of 2024 |
+| 💻 **Training** | AI-Powered Software Development |
+| 🚀 **Core stack** | Full-Stack with the MERN ecosystem |
+| 🏗️ **Focus** | Software Architecture & System Design |
+| ☁️ **Building experience in** | Cloud, DevOps & Infrastructure |
+| ⚡ **Long-term interest** | Robotics, Automation & Intelligent Systems |
 
 > **I don't just want to build applications. I want to understand and engineer the systems behind them.**
 
 ---
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-### 💻 Software Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,framer,nodejs,express" />
-</p>
-
-`HTML` `CSS` `JavaScript` `TypeScript`  
-`React` `Tailwind CSS` `Framer Motion`  
-`Node.js` `Express.js`
+| | Technologies |
+|---|---|
+| **💻 Frontend & Backend** | <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,framer,nodejs,express" /> |
+| **🗄️ Data & APIs** | <img src="https://skillicons.dev/icons?i=mongodb,postgresql,graphql,neo4j" /><br>REST APIs · JWT Authentication · Database Design |
+| **☁️ DevOps & Cloud** | <img src="https://skillicons.dev/icons?i=git,github,docker,aws,terraform,githubactions,linux" /><br>CI/CD · Cloud Infrastructure |
+| **🧠 Engineering** | Software Architecture · System Design · Data Modeling · Secure Software Development · AI-Assisted Development · Automation |
 
 ---
 
-### 🗄️ Data & APIs
+## 🚀 Featured Projects
 
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,graphql,neo4j" />
-</p>
+### 🧩 System Atlas
+**_Master Your Architectural Complexity._**
 
-`MongoDB` `PostgreSQL` `Neo4j`  
-`REST APIs` `GraphQL`  
-`JWT Authentication` `Database Design`
+A software architecture visualization and knowledge-mapping platform that helps teams understand complex systems by turning relationships between software components into an interactive visual graph.
+
+```mermaid
+flowchart TD
+    SA([System Atlas]) --> P[Projects]
+    SA --> C[Components]
+    SA --> T[Teams]
+    P --> R{{Relationships}}
+    C --> R
+    R --> V[Architecture Visualization]
+```
+
+**Built with:** `React` `Node.js` `Express` `MongoDB` `Neo4j` `Cytoscape.js`
+
+<details>
+<summary><b>🔑 Core features</b></summary>
+
+<br>
+
+- 🏢 Workspaces & projects
+- 🧩 Software components
+- 🔗 Component relationships
+- 👥 Teams & role management
+- 📝 Technical metadata
+- 🔐 Authentication & invitations
+- 🗺️ Interactive architecture visualization
+- 📚 Architecture knowledge mapping
+
+</details>
+
+<br>
+
+### More projects
+
+| 🛍️ VisioCreate | 👀 Watchlist |
+|---|---|
+| A modern full-stack e-commerce platform built around a responsive user experience and structured backend architecture. | A media watchlist app focused on a clean, interactive browsing experience. |
+| **Frontend:** React 19 · Vite · Tailwind CSS · Framer Motion · Swiper · React Hook Form | |
+| **Backend:** Node.js · Express 5 · MongoDB · JWT · Bcrypt · Multer · Axios | |
+| [🔗 Live Demo](https://visiocreate.vercel.app/) | [🔗 Live Demo](https://notyourtypicalwatchlist.vercel.app/) |
 
 ---
 
-### ☁️ DevOps & Cloud
+## 🧪 How I Work
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,terraform,githubactions,linux" />
-</p>
+I approach software with an engineering mindset:
 
-`Git` `GitHub` `Docker`  
-`AWS` `Terraform` `GitHub Actions`  
-`CI/CD` `Cloud Infrastructure`
+```mermaid
+flowchart LR
+    A[Understand<br>the problem] --> B[Model<br>the system]
+    B --> C[Design the<br>architecture]
+    C --> D[Build]
+    D --> E[Test &<br>validate]
+    E --> F[Deploy]
+    F --> G[Iterate]
+    G -.-> A
+```
+
+### 🎯 Currently Exploring
+
+![Software Architecture](https://img.shields.io/badge/Software%20Architecture-1f6feb?style=flat-square)
+![System Design](https://img.shields.io/badge/System%20Design-8957e5?style=flat-square)
+![Full-Stack](https://img.shields.io/badge/Full--Stack%20Engineering-2da44e?style=flat-square)
+![AI](https://img.shields.io/badge/AI--Powered%20Development-d29922?style=flat-square)
+![Cloud](https://img.shields.io/badge/Cloud%20%26%20DevOps-0A66C2?style=flat-square)
+![Intelligent Systems](https://img.shields.io/badge/Intelligent%20Systems%20→%20Robotics-cf222e?style=flat-square)
 
 ---
 
-### 🧠 Engineering & Problem Solving
+## 🎓 Background
 
-`Software Architecture` · `System Design` · `Data Modeling`  
-`Secure Software Development` · `Problem Solving`  
-`AI-Assisted Development` · `Automation`
+**⚡ Electrical Power Engineering** — a foundation in electrical systems, problem solving, mathematics, and technical analysis.
+
+**🤖 AI-Powered Software Development** — specialized training covering Full-Stack Development (MERN), Software Development Fundamentals, Secure Software Development, DevOps Fundamentals, Cloud & Deployment, and AI-assisted development.
 
 ---
 
-# 🚀 Featured Projects
+## 📊 GitHub Activity
 
-## 🧩 System Atlas
+<div align="center">
 
-### *Master Your Architectural Complexity.*
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=muhammadRashwan1101&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadRashwan1101&layout=compact&hide_border=true&theme=tokyonight" />
 
-**System Atlas** is a software architecture visualization and knowledge-mapping platform designed to help teams understand complex software systems.
+<img src="https://streak-stats.demolab.com?user=muhammadRashwan1101&theme=tokyonight&hide_border=true" />
 
-It transforms relationships between software components into an interactive visual representation.
+</div>
 
-### 🏗️ Architecture
-text
-                    ┌─────────────────┐
-                    │   System Atlas  │
-                    └────────┬────────┘
-                             │
-              ┌──────────────┼──────────────┐
-              ↓              ↓              ↓
-        ┌──────────┐   ┌──────────┐   ┌──────────┐
-        │ Projects │   │Components│   │  Teams   │
-        └────┬─────┘   └────┬─────┘   └──────────┘
-             │              │
-             └───────┬──────┘
-                     ↓
-             ┌───────────────┐
-             │ Relationships │
-             └───────┬───────┘
-                     ↓
-             ┌───────────────┐
-             │ Architecture  │
-             │ Visualization │
-             └───────────────┘
-⚙️ Built With
+<details>
+<summary><b>📈 Activity graph & contribution snake</b></summary>
 
-React Node.js Express MongoDB
-Neo4j Cytoscape.js
+<br>
 
-🔑 Core Features
-🏢 Workspaces & projects
-🧩 Software components
-🔗 Component relationships
-👥 Teams & role management
-📝 Technical metadata
-🔐 Authentication & invitations
-🗺️ Interactive architecture visualization
-📚 Architecture knowledge mapping
-🛍️ VisioCreate
+<div align="center">
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammadRashwan1101&theme=tokyo-night&hide_border=true" />
 
+<img src="https://raw.githubusercontent.com/muhammadRashwan1101/muhammadRashwan1101/output/github-contribution-grid-snake.svg" />
 
-A modern full-stack e-commerce platform built around a responsive user experience and structured backend architecture.
+</div>
 
-Frontend
+</details>
 
-React 19 · Vite · Tailwind CSS
-Framer Motion · Swiper · React Hook Form
+---
 
-Backend
+<div align="center">
 
-Node.js · Express 5 · MongoDB
-JWT · Bcrypt · Multer · Axios
+## 🤝 Let's Connect
 
-🔗 Live Demo:
-https://visiocreate.vercel.app/
+<a href="https://www.linkedin.com/in/muhammad-rashwan/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/muhammadRashwan1101">
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-👀 Watchlist
-
-A media watchlist application focused on creating a clean and interactive browsing experience.
-
-🔗 Live Demo:
-https://notyourtypicalwatchlist.vercel.app/
-
-🧪 What I Like Building
-        USER EXPERIENCE
-              │
-              ▼
-       ┌─────────────┐
-       │  Frontend   │
-       └──────┬──────┘
-              │
-              ▼
-       ┌─────────────┐
-       │  Backend    │
-       │  APIs       │
-       └──────┬──────┘
-              │
-       ┌──────┴──────┐
-       ▼             ▼
-  ┌─────────┐   ┌──────────┐
-  │ Databases│   │   AI     │
-  └────┬────┘   └────┬─────┘
-       │             │
-       └──────┬──────┘
-              ▼
-       ┌─────────────┐
-       │   Cloud &   │
-       │   DevOps    │
-       └──────┬──────┘
-              │
-              ▼
-       ┌─────────────┐
-       │ Intelligent │
-       │   Systems   │
-       └─────────────┘
-📊 GitHub Stats
-<div align="center"> <img height="180" src="https://github-readme-stats.vercel.app/api?username=muhammadRashwan1101&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight" /> <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadRashwan1101&layout=compact&hide_border=true&theme=tokyonight" /> </div>
-🔥 Contribution Streak
-<div align="center"> <img src="https://streak-stats.demolab.com?user=muhammadRashwan1101&theme=tokyonight&hide_border=true" /> </div>
-🐍 Contribution Snake
-<div align="center"> <img src="https://raw.githubusercontent.com/muhammadRashwan1101/muhammadRashwan1101/output/github-contribution-grid-snake.svg" /> </div>
-📈 Activity
-<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammadRashwan1101&theme=tokyo-night&hide_border=true" /> </div>
-🎯 Currently Exploring
-Software Architecture
-        │
-        ├── System Design
-        │
-        ├── Full-Stack Engineering
-        │
-        ├── AI-Powered Development
-        │
-        ├── Cloud & DevOps
-        │
-        └── Intelligent Systems
-                    │
-                    ▼
-               Robotics
-🎓 Background
-⚡ Electrical Power Engineering
-
-Engineering graduate with a foundation in electrical systems, problem solving, mathematics, and technical analysis.
-
-🤖 AI-Powered Software Development
-
-Specialized software development training covering:
-
-Full-Stack Development
-MERN Stack
-Software Development Fundamentals
-Secure Software Development
-DevOps Fundamentals
-Cloud & Deployment
-AI-assisted Software Development
-🧩 Engineering Mindset
-
-I approach software development with an engineering mindset:
-
-Understand the Problem
-        ↓
-Model the System
-        ↓
-Design the Architecture
-        ↓
-Build the Solution
-        ↓
-Test & Validate
-        ↓
-Deploy
-        ↓
-Iterate
-🤝 Let's Connect
-<div align="center"> <a href="https://www.linkedin.com/in/muhammad-rashwan/"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://github.com/muhammadRashwan1101"> <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> </div> <br> <div align="center">
-⚡ Engineering mindset. Software execution. Intelligent systems.
 </div>
